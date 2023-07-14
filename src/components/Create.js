@@ -32,7 +32,7 @@ const Create = () =>{
     
      <div className="d-flex justify-content-between m-2">
      
-       <h1> <b>CREATE DATABASE</b></h1>
+       <h1> <b>Add User Details</b></h1>
        {/* <Link to="/Read"></Link>
      <button className="btn btn-primary">Show Data</button> */}
      </div>
